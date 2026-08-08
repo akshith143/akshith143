@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🏦 **6+ years** building high-scale backend systems in **fintech** and **enterprise** domains.
+- 🏦 **7+ years** building high-scale backend systems in **fintech** and **enterprise** domains.
 - ⚡ Ship REST APIs handling **10M+ monthly transactions** at **sub-200ms p95 latency**.
 - 🔐 Deep focus on **API security**, **authentication**, and **PCI-DSS compliant** payment flows.
 - 🧩 Comfortable across the stack — **Node.js**, **Kotlin/Java**, **MySQL**, **Redis**, **Docker**, **AWS/GCP**.
